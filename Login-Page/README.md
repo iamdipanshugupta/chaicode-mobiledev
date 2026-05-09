@@ -58,7 +58,7 @@ npm install -g expo-cli
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/iamdipanshugupta/chaicode-mobiledev/tree/main/Login-Page
 
 # 2. Navigate into the project
 cd your-repo-name
