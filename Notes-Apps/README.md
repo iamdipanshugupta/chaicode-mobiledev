@@ -4,7 +4,21 @@ A clean and responsive Notes App UI built using React Native with Expo.
 
 This project was created as part of the Mobile Development Cohort assignment to practice React Native core components, responsive layouts, dark/light themes, and clean UI design.
 
+
 ---
+
+
+ # Demo Video Link
+    https://x.com/Dipansh04205800/status/2053688763172458541
+
+
+    
+---
+
+
+---
+
+
 
 # Features
 
